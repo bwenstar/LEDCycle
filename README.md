@@ -4,8 +4,8 @@ Tiva TM4C123GXL - GPIO LED Cycle program
 ------------------------------------------------------------------
 
 **Microprocessor**: TIVA TM4C123GXL
-**GIPO: ** Port D
-**Pins **: 3-0
+**GIPO**: Port D
+**Pins**: 3-0
 8mA Source
 
 ------------------------------------------------------------------
